@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.logo-theme {
+  height: 70px;
+  
+}
+.nav-item-theme {
+  color: #03203C;
+  /* background-color: white; */
+  
+  font-size: 20px;
+}
+
+.nav-item-profile-image {
+  height: 20px;
+  
+  /* border-radius: 50%; */
+  /* border: 1px solid black; */
+} 
+
+
+/* Test Component */
+
+.btn-design {
+  font-size: 50px;
+  height: 75px;
+  width: 150px;
+}
